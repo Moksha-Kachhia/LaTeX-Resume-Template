@@ -1,4 +1,4 @@
-# My-Resume-Template
+# LaTeX-Resume-Template
 I edited Jake's Overleaf template to fit my requirements. Message me if you would like to see my resume as an example! 
 
 # Credits
